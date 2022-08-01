@@ -5,3 +5,8 @@ The objective of the article is to give you a clear understanding on how to setu
 ## You have to create two databases in MySQL user and cookie_user in MySQL Workbench
 ![image](mysql.png)
 ### So we need to create database named as ‘cookie_user’ in MySQL.
+
+* https://code.tutsplus.com/es/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
+## Encriptación de password en NodeJS y MongoDB: bcrypt
+
+* https://www.izertis.com/es/-/blog/encriptacion-de-password-en-nodejs-y-mongodb-bcrypt
