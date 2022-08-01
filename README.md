@@ -7,6 +7,10 @@ The objective of the article is to give you a clear understanding on how to setu
 ### So we need to create database named as ‘cookie_user’ in MySQL.
 
 * https://code.tutsplus.com/es/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
+## Tutorial Autenticar Aplicaciones Node.js con Passport
+
+* https://code.tutsplus.com/es/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
 ## Encriptación de password en NodeJS y MongoDB: bcrypt
 
 * https://www.izertis.com/es/-/blog/encriptacion-de-password-en-nodejs-y-mongodb-bcrypt
+
